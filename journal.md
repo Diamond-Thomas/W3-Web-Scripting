@@ -1,0 +1,2 @@
+### Journal Prompt: Explain the syntax difference between the function declaration (calculatePrice) and the function expression (getTax).
+the only difference between the function decleration and the function expression is the fact that the expression ios put in a variable so it has a 'const (variable name) =' and a semicolon at the end because it is part of a variable statment.
